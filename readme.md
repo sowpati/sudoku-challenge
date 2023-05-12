@@ -1,4 +1,4 @@
-## Code and Data repository for Sudoku Code Challenge
+# Code and Data repository for Sudoku Code Challenge
 
 The repo will be used to collect the code and some sudoku datasets to be used for code challenge. For now, we are starting with an *easy* collection of 1000 puzzles. Most, if not all, can be solved by looking up naked and hidden singles alone. This collection should be used to mainly test your parsing code.
 
