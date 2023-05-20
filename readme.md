@@ -22,6 +22,10 @@ puzzles,solutions
 
 The above data is in **flat** mode: each puzzle and its corresponding solution is a string of 81 digits. `0` indicates a blank. 
 
+
+In addition to the above easy puzzles, two more files are now added, called `hard.csv` and `harder.csv`. These cannot be solved by simply iterating over hidden and naked singles, and need more advanced strategies. The best overall strategy would be to use guessing and backtracking.
+
+
 To get you started, here is a simple python code that can read the file, and convert each puzzle into a 9x9 matrix:
 
 ``` python
