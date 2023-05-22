@@ -54,4 +54,6 @@ print(matrix)
 
 ```
 
+Points will be given for accuracy and speed. Any solution which falls below 99.5% accuracy are disqualified.
+
 Good luck, and have fun solving!
